@@ -1,0 +1,2 @@
+# Market-Basket-Analysis
+Market Basket Analysis was applied to a supermarket's transaction record to forecast which products are likely to go together, allowing the business to reorganize its product positioning. Cluster Analysis was performed on a dataset containing information about customers, stores, and the types of jeans they purchased. This analysis assisted the organization in identifying various categories of clients and categorizing them. 
